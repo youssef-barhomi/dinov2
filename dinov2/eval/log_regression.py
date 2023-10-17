@@ -10,7 +10,7 @@ import sys
 import time
 from typing import List, Optional
 
-from cuml.linear_model import LogisticRegression
+# from cuml.linear_model import LogisticRegression
 import torch
 import torch.backends.cudnn as cudnn
 import torch.distributed
